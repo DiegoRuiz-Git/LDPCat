@@ -1,0 +1,13 @@
+Number of CPU cores: 64
+Seed for process 291853: 1824025101
+Seed for process 291888: 1824025437
+Seed for process 291826: 1824024661
+Seed for process 291796: 1824024622
+Seed for process 291860: 1824025121
+Seed for process 291798: 1824024627
+Seed for process 291795: 1824024622
+Seed for process 291832: 1824024879
+Seed for process 291867: 1824025282
+Seed for process 291843: 1824024967
+Seed for process 291877: 1824025369
+0.0023726537420308493

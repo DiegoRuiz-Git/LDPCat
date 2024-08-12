@@ -1,0 +1,6 @@
+Seed for process 90554: 3928402011
+Seed for process 90596: 3928402145
+Seed for process 90589: 3928402122
+Seed for process 90571: 3928402061
+Seed for process 90558: 3928402021
+0.41260744985673353

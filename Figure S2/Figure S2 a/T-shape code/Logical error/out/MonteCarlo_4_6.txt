@@ -1,0 +1,10 @@
+Number of CPU cores: 36
+Seed for process 3473: 285884032
+Seed for process 3473: 443786359
+Seed for process 3473: 514928050
+Seed for process 3462: 285884018
+Seed for process 3444: 285883973
+Seed for process 3454: 285883999
+Seed for process 3459: 285884011
+Seed for process 3461: 285884016
+Seed for process 3474: 285884109

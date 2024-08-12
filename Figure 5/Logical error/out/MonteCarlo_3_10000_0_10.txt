@@ -1,0 +1,26 @@
+Seed for process 35253: 3494246349
+Seed for process 35246: 3494246329
+Seed for process 35256: 3494246361
+Seed for process 35252: 3494246344
+Seed for process 35252: 3494262018
+Seed for process 35263: 3494246551
+Seed for process 35242: 3494246324
+Seed for process 35235: 3494246315
+Seed for process 35258: 3494246370
+Seed for process 35237: 3494246318
+Seed for process 35262: 3494246386
+Seed for process 35251: 3494246339
+Seed for process 35247: 3494246330
+Seed for process 35259: 3494246373
+Seed for process 35257: 3494246366
+Seed for process 35255: 3494246356
+Seed for process 35255: 3494258197
+Seed for process 35260: 3494246378
+Seed for process 35261: 3494246382
+Seed for process 35244: 3494246327
+Seed for process 35243: 3494246325
+Seed for process 35243: 3494257620
+Seed for process 35236: 3494246317
+Seed for process 35250: 3494246336
+Seed for process 35250: 3494261694
+0.7614213197969543

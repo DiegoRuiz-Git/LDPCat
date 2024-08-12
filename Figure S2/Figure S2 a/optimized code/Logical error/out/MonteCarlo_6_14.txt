@@ -1,0 +1,2 @@
+Number of CPU cores: 64
+0.8728373702422145

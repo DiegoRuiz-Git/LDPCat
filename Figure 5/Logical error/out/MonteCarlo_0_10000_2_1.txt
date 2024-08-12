@@ -1,0 +1,16 @@
+Seed for process 5046: 2375716439
+Seed for process 5043: 2375716429
+Seed for process 5054: 2375716462
+Seed for process 5049: 2375716448
+Seed for process 5051: 2375716453
+Seed for process 5052: 2375716456
+Seed for process 5040: 2375716420
+Seed for process 5039: 2375716416
+Seed for process 5042: 2375716425
+Seed for process 5048: 2375716444
+Seed for process 5045: 2375716434
+Seed for process 5037: 2375716411
+Seed for process 5053: 2375716458
+Seed for process 5038: 2375716415
+Seed for process 5050: 2375716449
+4.2219032339778774e-05

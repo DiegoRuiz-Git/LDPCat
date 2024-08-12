@@ -1,0 +1,13 @@
+Number of CPU cores: 96
+Seed for process 78732: 1067749897
+Seed for process 78700: 1067749837
+Seed for process 78712: 1067749854
+Seed for process 78709: 1067749848
+Seed for process 78711: 1067749853
+Seed for process 78713: 1067749857
+Seed for process 78727: 1067749886
+Seed for process 78717: 1067749884
+Seed for process 78723: 1067749878
+Seed for process 78704: 1067749842
+Seed for process 78730: 1067749893
+Seed for process 78721: 1067749874

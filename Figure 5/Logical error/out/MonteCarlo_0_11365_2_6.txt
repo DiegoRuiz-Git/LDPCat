@@ -1,0 +1,25 @@
+Seed for process 20236: 2383332151
+Seed for process 20251: 2383332175
+Seed for process 20259: 2383332200
+Seed for process 20241: 2383332157
+Seed for process 20262: 2383332209
+Seed for process 20262: 2383416361
+Seed for process 20262: 2383452679
+Seed for process 20242: 2383332158
+Seed for process 20246: 2383332163
+Seed for process 20230: 2383332143
+Seed for process 20228: 2383332141
+Seed for process 20232: 2383332146
+Seed for process 20231: 2383332144
+Seed for process 20253: 2383332181
+Seed for process 20253: 2383399505
+Seed for process 20252: 2383332178
+Seed for process 20256: 2383332190
+Seed for process 20247: 2383332164
+Seed for process 20245: 2383332162
+Seed for process 20237: 2383332152
+Seed for process 20255: 2383332187
+Seed for process 20257: 2383332193
+Seed for process 20233: 2383332147
+Seed for process 20249: 2383332169
+0.01771793054571226

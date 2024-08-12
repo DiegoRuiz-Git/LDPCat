@@ -1,0 +1,24 @@
+Seed for process 34661: 3605077796
+Seed for process 34644: 3605077760
+Seed for process 34652: 3605077773
+Seed for process 34686: 3605077893
+Seed for process 34672: 3605077843
+Seed for process 34685: 3605077889
+Seed for process 34671: 3605077840
+Seed for process 34680: 3605077871
+Seed for process 34677: 3605077861
+Seed for process 34668: 3605077938
+Seed for process 34674: 3605077850
+Seed for process 34659: 3605077791
+Seed for process 34679: 3605077868
+Seed for process 34670: 3605077836
+Seed for process 34673: 3605077847
+Seed for process 34665: 3605077807
+Seed for process 34648: 3605077765
+Seed for process 34649: 3605077767
+Seed for process 34669: 3605077831
+Seed for process 34653: 3605077774
+Seed for process 34678: 3605077864
+Seed for process 34655: 3605077778
+Seed for process 34684: 3605077885
+5.571256180844461e-05

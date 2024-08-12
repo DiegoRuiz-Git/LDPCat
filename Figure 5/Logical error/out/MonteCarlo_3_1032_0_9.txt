@@ -1,0 +1,24 @@
+Seed for process 41277: 3489662847
+Seed for process 41274: 3489662837
+Seed for process 41273: 3489662832
+Seed for process 41286: 3489662882
+Seed for process 41290: 3489662897
+Seed for process 41281: 3489662860
+Seed for process 41280: 3489662859
+Seed for process 41267: 3489662810
+Seed for process 41249: 3489662745
+Seed for process 41269: 3489662818
+Seed for process 41260: 3489662782
+Seed for process 41287: 3489662883
+Seed for process 41276: 3489662846
+Seed for process 41259: 3489662777
+Seed for process 41261: 3489662786
+Seed for process 41275: 3489662841
+Seed for process 41295: 3489662916
+Seed for process 41293: 3489662907
+Seed for process 41292: 3489662902
+Seed for process 41284: 3489662874
+Seed for process 41278: 3489662851
+Seed for process 41263: 3489662795
+Seed for process 41298: 3489662925
+0.44052863436123346

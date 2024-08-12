@@ -1,0 +1,13 @@
+Number of CPU cores: 64
+Seed for process 89489: 646818417
+Seed for process 89492: 646818420
+Seed for process 89476: 646818401
+Seed for process 89500: 646818472
+Seed for process 89509: 646818538
+Seed for process 89516: 646818584
+Seed for process 89482: 646818408
+Seed for process 89517: 646818590
+Seed for process 89510: 646818546
+Seed for process 89520: 646818609
+Seed for process 89481: 646818407
+0.3565459610027855

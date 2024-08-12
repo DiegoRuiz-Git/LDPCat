@@ -1,0 +1,25 @@
+Seed for process 95567: 2399366386
+Seed for process 95516: 2399366325
+Seed for process 95604: 2399366434
+Seed for process 95529: 2399366340
+Seed for process 95523: 2399366333
+Seed for process 95559: 2399366375
+Seed for process 95537: 2399366348
+Seed for process 95511: 2399366318
+Seed for process 95514: 2399366323
+Seed for process 95531: 2399366342
+Seed for process 95584: 2399366408
+Seed for process 95552: 2399366367
+Seed for process 95573: 2399366393
+Seed for process 95557: 2399366372
+Seed for process 95606: 2399366438
+Seed for process 95527: 2399366338
+Seed for process 95539: 2399366351
+Seed for process 95575: 2399366395
+Seed for process 95594: 2399366421
+Seed for process 95544: 2399366357
+Seed for process 95592: 2399366419
+Seed for process 95548: 2399366362
+Seed for process 95533: 2399366344
+Seed for process 95554: 2399366369
+0.005275096270506937

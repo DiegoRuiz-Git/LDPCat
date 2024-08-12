@@ -1,0 +1,6 @@
+Number of CPU cores: 48
+Seed for process 22592: 464179171
+Seed for process 22586: 464178936
+Seed for process 22578: 464178907
+Seed for process 22589: 464178948
+Seed for process 22575: 464178895

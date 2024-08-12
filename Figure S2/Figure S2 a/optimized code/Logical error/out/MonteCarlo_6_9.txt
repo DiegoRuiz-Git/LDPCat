@@ -1,0 +1,17 @@
+Number of CPU cores: 48
+Seed for process 35872: 1114652840
+Seed for process 35877: 1114652862
+Seed for process 35878: 1114652867
+Seed for process 35880: 1114652874
+Seed for process 35870: 1114652832
+Seed for process 35875: 1114652852
+Seed for process 35869: 1114652828
+Seed for process 35873: 1114652844
+Seed for process 35866: 1114652816
+Seed for process 35867: 1114652820
+Seed for process 35874: 1114652848
+Seed for process 35863: 1114652804
+Seed for process 35868: 1114652824
+Seed for process 35876: 1114652857
+Seed for process 35876: 1127162003
+4.236941639942157e-05

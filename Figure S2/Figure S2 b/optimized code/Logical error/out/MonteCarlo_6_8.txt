@@ -1,0 +1,23 @@
+Seed for process 5939: 2865009319
+Seed for process 5952: 2865009335
+Seed for process 5973: 2865009402
+Seed for process 5947: 2865009329
+Seed for process 5963: 2865009354
+Seed for process 5942: 2865009323
+Seed for process 5964: 2865009358
+Seed for process 5958: 2865009344
+Seed for process 5953: 2865009336
+Seed for process 5974: 2865009406
+Seed for process 5937: 2865009317
+Seed for process 5971: 2865009392
+Seed for process 5930: 2865009309
+Seed for process 5957: 2865009342
+Seed for process 5968: 2865009377
+Seed for process 5969: 2865009382
+Seed for process 5960: 2865009347
+Seed for process 5931: 2865009310
+Seed for process 5951: 2865009334
+Seed for process 5935: 2865009315
+Seed for process 5975: 2865009411
+Seed for process 5976: 2865009418
+0.4625

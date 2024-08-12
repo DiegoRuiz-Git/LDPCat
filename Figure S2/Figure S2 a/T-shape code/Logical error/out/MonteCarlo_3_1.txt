@@ -1,0 +1,3 @@
+Number of CPU cores: 48
+Seed for process 36049: 285872152
+Seed for process 36044: 285872135

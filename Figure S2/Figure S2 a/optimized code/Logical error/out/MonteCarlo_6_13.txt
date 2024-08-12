@@ -1,0 +1,13 @@
+Number of CPU cores: 64
+Seed for process 14235: 1823747165
+Seed for process 14237: 1823747158
+Seed for process 14249: 1823747286
+Seed for process 14239: 1823747232
+Seed for process 14255: 1823747341
+Seed for process 14251: 1823747358
+Seed for process 14247: 1823747302
+Seed for process 14267: 1823747501
+Seed for process 14256: 1823747397
+Seed for process 14245: 1823747257
+Seed for process 14262: 1823747461
+0.2506265664160401

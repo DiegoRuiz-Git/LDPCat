@@ -1,0 +1,2 @@
+Number of CPU cores: 96
+7.336999387360551e-05

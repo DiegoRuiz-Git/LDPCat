@@ -1,0 +1,4 @@
+Number of CPU cores: 64
+Seed for process 286894: 1824020128
+Seed for process 286902: 1824020167
+0.02453144931802571

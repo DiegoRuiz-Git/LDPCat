@@ -1,0 +1,4 @@
+Number of CPU cores: 64
+Seed for process 38422: 55111521
+Seed for process 38380: 55111315
+3.2622969032213373e-06

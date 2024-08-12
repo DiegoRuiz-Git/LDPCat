@@ -1,0 +1,5 @@
+Number of CPU cores: 64
+Seed for process 15893: 55147111
+Seed for process 15916: 55147178
+Seed for process 15892: 55147110
+0.23063063063063063
