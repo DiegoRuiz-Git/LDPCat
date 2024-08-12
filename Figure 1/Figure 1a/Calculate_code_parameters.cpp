@@ -19,7 +19,7 @@ using namespace std;
 #define MAX 290
 
 // Compute the code parameters of a specific stabilizer shape for a given lattice size
-int CodeCyclique(int l, int m, int b,vector<tuple<vector<vector<int>>,int,int,float>>& result,
+int CyclicCode(int l, int m, int b,vector<tuple<vector<vector<int>>,int,int,float>>& result,
 		bool stabilizer[MAX][MAX],
 		bool H[MAX][MAX],bool G[MAX][MAX]);
 
@@ -104,7 +104,7 @@ int main(int argc, char* argv[]) {
 			}
 		
 			// Calculate the code parameters associated to this shape
-            CodeCyclique(l,m,b,result,stabilizer,H,G);
+            CyclicCode(l,m,b,result,stabilizer,H,G);
 
 	        #pragma omp critical
 			{
@@ -144,7 +144,7 @@ int HorizontalmirrorInt(int b) {
 }
 
 // Compute the code parameters of a specific stabilizer shape for a given lattice size
-int CodeCyclique(int l, int m, int b,vector<tuple<vector<vector<int>>,int,int,float>>& result,
+int CyclicCode(int l, int m, int b,vector<tuple<vector<vector<int>>,int,int,float>>& result,
 		bool stabilizer[MAX][MAX],
 		bool H[MAX][MAX],bool G[MAX][MAX]){
 
