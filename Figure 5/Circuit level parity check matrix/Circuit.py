@@ -2,16 +2,9 @@
 # Affiliation: Alice&Bob - INRIA
 # Date: 2023
 
-from qiskit import QuantumCircuit, ClassicalRegister, QuantumRegister
-import matplotlib
-import numpy as np
+from qiskit import QuantumCircuit
 import qiskit as qt
-import random
-import Column
 import matplotlib.pyplot as plt
-import timeit
-from Gate import Gate
-from numpy.random import *
 import copy
 
 # class to represent the quantum circuit that contains columns

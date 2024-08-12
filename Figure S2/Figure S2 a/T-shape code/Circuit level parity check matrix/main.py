@@ -2,16 +2,8 @@
 # Affiliation: Alice&Bob - INRIA
 # Date: 2023
 
-import Column
-import Circuit
 from FractalCode import FractalCode
-import timeit
-import matplotlib.pyplot as plt
 import numpy as np
-from Gate import Gate
-import os
-import glob
-from numpy.random import *
 import sys
 
 H = int(sys.argv[1]) # height of the lattice of data qubits

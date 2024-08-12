@@ -2,14 +2,6 @@
 # Affiliation: Alice&Bob - INRIA
 # Date: 2023
 
-import numpy as np
-from qiskit import QuantumCircuit, ClassicalRegister, QuantumRegister
-import matplotlib
-from Gate import Gate
-import timeit
-import copy
-from numpy.random import *
-
 # class to represent a column (= a timestep) in the circuit that contains gates
 class Column:
     
