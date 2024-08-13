@@ -127,15 +127,17 @@ def MonteCarlo():
 
 ############################### RUN WITH MULTIPROCESSING ############################### 
 
-with multiprocessing.Pool() as pool:
-    results = [pool.apply_async(MonteCarlo) for _ in range(50)]
-    # Retrieve the results
-    results = [result.get() for result in results]
+if __name__ == '__main__':
 
-error_count = 0
-run_count = 0
-for i in range(len(results)):
-    error_count += results[i][0]
-    run_count += results[i][1]
+    with multiprocessing.Pool() as pool:
+        results = [pool.apply_async(MonteCarlo) for _ in range(50)]
+        # Retrieve the results
+        results = [result.get() for result in results]
 
-print(error_count/run_count)
+    error_count = 0
+    run_count = 0
+    for i in range(len(results)):
+        error_count += results[i][0]
+        run_count += results[i][1]
+
+    print(error_count/run_count)
